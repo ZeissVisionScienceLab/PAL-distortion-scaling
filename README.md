@@ -3,6 +3,7 @@ Data and analysis scripts for the study "Seeing the future of progressive glasse
 
 ## Publication - Preprint
 The preprint of the study is available at https://doi.org/10.31234/osf.io/pge5n
+
 Cite as:
 ```
 Sauer, Y., Künstle, D., Wichmann, F., & Wahl, S. (2023).
